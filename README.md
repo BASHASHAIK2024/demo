@@ -1,2 +1,2 @@
 # demo
-this my firsrt repositorY
+This my firsrt repositorY
